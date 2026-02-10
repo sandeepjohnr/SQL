@@ -43,11 +43,13 @@ In Database we canm perform CRUD operations:
 
 Difference between DBMS and RDBMS
 
-    | DBMS   | RDBMS |
-    | -------- | ------- |
-    | Store data in file  | store data in table|
-    | data is stored in one place | data is store in multiple linked tables|
-    | no proper connection between data |data is connected using ids|
-    | more duplicate data | less duplicate data|
-    | single user | multiple user |
-    | query language is used | sturctured Query language is used |
+
+| DBMS | RDBMS |
+| :--- | :--- |
+| Stores data in files | Stores data in tables |
+| Data is stored in one place | Data is stored in multiple linked tables |
+| No proper connection between data | Data is connected using IDs (Foreign Keys) |
+| More duplicate data (Redundancy) | Less duplicate data (Normalization) |
+| Single user | Multiple users |
+| General query language is used | Structured Query Language (SQL) is used |
+
