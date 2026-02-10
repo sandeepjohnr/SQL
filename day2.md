@@ -14,7 +14,7 @@ In Database we canm perform CRUD operations:
 
 ## Database Management System (DBMS):
 
-https://github.com/sandeepjohnr/SQL/blob/master/pic/2.png?raw=true
+![Table 2](https://github.com/sandeepjohnr/SQL/blob/master/pic/2.png?raw=true)
 
     It is a softwear which is used to maintain and manage the database.
     The two main feature provided by DBMS are:
@@ -32,7 +32,7 @@ https://github.com/sandeepjohnr/SQL/blob/master/pic/2.png?raw=true
 
 ## Relational Database Management System (RDBMS):
 
-https://github.com/sandeepjohnr/SQL/blob/master/pic/3.png?raw=true
+![Table 3](https://github.com/sandeepjohnr/SQL/blob/master/pic/3.png?raw=true)
 
     It is a type of a DBMS softwear that is used to maintain and manage the database.
     The two main feature provided by DBMS are:
