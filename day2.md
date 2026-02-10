@@ -1,7 +1,7 @@
 # Day 2
 
 ## Database
-    It is a place or medium  where we can store the data
+It is a place or medium  where we can store the data
 
 ![SQL Table Screenshot](https://raw.githubusercontent.com/sandeepjohnr/SQL/refs/heads/master/pic/1.png)
 
@@ -16,7 +16,7 @@ In Database we canm perform CRUD operations:
 
 ![Table 2](https://github.com/sandeepjohnr/SQL/blob/master/pic/2.png?raw=true)
 
-    It is a softwear which is used to maintain and manage the database.
+It is a softwear which is used to maintain and manage the database.
     The two main feature provided by DBMS are:
         Security
         Authorisation
@@ -24,17 +24,17 @@ In Database we canm perform CRUD operations:
     we use query language to interact or communicate with the database.
 
 ## Types of DBMS:
-    Relational Database Management System
-    hierarchical DBMS
-    Network DBMS
-    Object Oriented DBMS
-    NoSQL
+Relational Database Management System,
+    hierarchical DBMS,
+    Network DBMS,
+    Object Oriented DBMS,
+    NoSQL,
 
 ## Relational Database Management System (RDBMS):
 
 ![Table 3](https://github.com/sandeepjohnr/SQL/blob/master/pic/3.png?raw=true)
 
-    It is a type of a DBMS softwear that is used to maintain and manage the database.
+It is a type of a DBMS softwear that is used to maintain and manage the database.
     The two main feature provided by DBMS are:
         Security
         Authorisation
