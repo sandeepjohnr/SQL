@@ -6,11 +6,12 @@ It is a place or medium  where we can store the data
 ![SQL Table Screenshot](https://raw.githubusercontent.com/sandeepjohnr/SQL/refs/heads/master/pic/1.png)
 
 
-In Database we canm perform CRUD operations:
-    C =  Creat/Insert
-    R = Read/Retrive
-    U = Update/Modify
-    D = Delete/Drop
+In Database we canm perform CRUD operations:  
+    C =  Creat/Insert  
+    R = Read/Retrive  
+    U = Update/Modify  
+    D = Delete/Drop  
+    
 
 ## Database Management System (DBMS):
 
