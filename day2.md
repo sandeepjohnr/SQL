@@ -3,7 +3,8 @@
 ## Database
     It is a place or medium  where we can store the data
 
-https://raw.githubusercontent.com/sandeepjohnr/SQL/refs/heads/master/pic/1.png
+![SQL Table Screenshot](https://raw.githubusercontent.com/sandeepjohnr/SQL/refs/heads/master/pic/1.png)
+
 
 In Database we canm perform CRUD operations:
     C =  Creat/Insert
