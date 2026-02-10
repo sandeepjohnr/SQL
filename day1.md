@@ -5,7 +5,7 @@
 	It is a language that is used to communicate or interact with the Database.
 	SQL stands for structured query language.
    
-    Is SQL a software ?  
+   Is SQL a software ?  
 	No,SQL is not a software it is just a language used to interact with database
 
 -> let us dive into Data:
