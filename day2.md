@@ -41,7 +41,7 @@ In Database we canm perform CRUD operations:
     In RDBMS we can store the data in table format.
     we use sturctured query language to interact or communicate with the database.
 
-Difference between DBMS and RDBMS
+## Difference between DBMS and RDBMS
 
 
 | DBMS | RDBMS |
